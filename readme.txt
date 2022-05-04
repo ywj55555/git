@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 no-ff
 eeee
+func (a,b int)int {return a +b};
