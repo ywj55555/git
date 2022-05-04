@@ -6,4 +6,4 @@ Creating a new branch is quick and simple.
 no-diff
 eeee
 func (a,b int)int {return a +b};
-
+func2 (a,b int)int {return a*b}
