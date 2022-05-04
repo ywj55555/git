@@ -7,3 +7,4 @@ no-diff
 func (a,b int)int {return a +b};
 
 test pull
+git config --global alias.st status
