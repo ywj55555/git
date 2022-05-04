@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 no-diff
 func (a,b int)int {return a +b};
 
+test pull
