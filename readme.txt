@@ -7,3 +7,5 @@ no-diff
 eeee
 func (a,b int)int {return a +b};
 func2 (a,b int)int {return a*b}
+remote func3(a,b int)int {return a/b};
+
